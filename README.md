@@ -1,5 +1,6 @@
 # ML Student Depression
 💡 Project Title: Student Depression Prediction Using Machine Learning
+
 📌 Objective:
 To build a web application that predicts whether a student is likely experiencing depression based on various personal, academic, and lifestyle factors.
 
