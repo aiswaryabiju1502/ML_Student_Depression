@@ -50,14 +50,21 @@ A green success message (“No depression”) is shown if depression is not dete
 A yellow warning (“Depression”) appears if the model predicts depression.
 
 🧠 Machine Learning Techniques Used:
+
 Evaluated the performance using different classification algorithms:
 
 KNeighbourClassifier
+
 SVC
+
 GaussianNB
+
 RandomForestClassifier
+
 GradientBoostingClassifier
+
 DecisionTreeClassifier
+
 XGBClassifier
 
 Best model is identified as XGBClassifier.
